@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melissa Morgan
 - 👀 I’m interested in learning Java.
-- 🌱 I’m currently learning Java, Spring Framework, and Android programming using Android Studio.
+- 🌱 I’m currently learning Java, Kotlin, XML, FXML, Spring Framework, and Android programming using Android Studio.
 - 📫 How to reach me: mlmorgan304@gmail.com
 
 <!---
