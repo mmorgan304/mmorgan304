@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Melissa Morgan
 - 👀 I’m interested in learning Java.
-- 🌱 I’m currently learning Java, Kotlin, XML, FXML, Spring Framework, and Android programming using Android Studio.
-- 📫 How to reach me: mlmorgan304@gmail.com
+- 🌱 I’m currently learning Java, Spring Framework, and PHP.
+- 📫 How to reach me: melmorga@gmail.com
 
 <!---
 mmorgan304/mmorgan304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
